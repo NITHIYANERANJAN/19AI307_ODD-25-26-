@@ -22,8 +22,7 @@ To write a Java program that defines a class Person with private variables and p
 ## PROGRAM:
  ```
 /*
-Program to implement variables and Operators using Java
-Developed by: NITHIYANERANJAN S
+Developed by:NITHIYANERANJAN S
 RegisterNumber: 212223040136
 */
 ```
