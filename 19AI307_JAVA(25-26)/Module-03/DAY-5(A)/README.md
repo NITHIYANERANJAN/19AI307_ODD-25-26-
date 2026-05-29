@@ -16,8 +16,7 @@ To demonstrate accessing an inner class from an outer class in Java.
 ## PROGRAM:
  ```
 /*
-Program to implement variables and Operators using Java
-Developed by: NITHIYANERANJAN S
+Developed by:NITHIYANERANJAN S
 RegisterNumber: 212223040136
 */
 ```
