@@ -20,8 +20,7 @@ To write a Java program to compute the power of a number using the Math.pow() fu
 ## PROGRAM:
  ```
 /*
-Program to implement variables and Operators using Java
-Developed by: NITHIYANERANJAN S
+Developed by:NITHIYANERANJAN S
 RegisterNumber: 212223040136
 */
 ```
